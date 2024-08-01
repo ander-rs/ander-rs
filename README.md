@@ -2,7 +2,7 @@
 
 Meu nome é Anderson Santos
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -11,3 +11,5 @@ Meu nome é Anderson Santos
 ander.rsantos@gmail.com
 
 @ander_rs
+
+![](https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif)
